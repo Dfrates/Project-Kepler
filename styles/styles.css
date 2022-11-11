@@ -16,6 +16,8 @@
 /* Nav Bar */
 .nav-bar{
     display: flex;
+    position: sticky;
+    top: 0;
     order: 2;
     width: 100vw;
     background-color: #98878f;
