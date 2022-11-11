@@ -1,0 +1,15 @@
+TODOS
+1. Create NAV bar
+    a. home menu
+    b. about menu
+    c. gallery menu
+
+2. Create Home Page
+    a. links to Photos
+    b. links to videos
+
+3. Create About Page
+    a.
+
+4. Create Gallery Page
+    a. 
